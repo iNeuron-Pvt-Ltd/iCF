@@ -1,17 +1,21 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: iCF
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - how-it-works?: how-it-works.md
+  - General Guidelines: 
+  - Rules and Regulations: rules.md 
+  - FAQ: faq.md
   - Feedback: feedback.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: iNeuron.ai
 site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: c17hawke/REPO_NAME
-repo_url: https://github.com/c17hawke/REPO_NAME
+repo_name: iNeuron-Pvt-Ltd/iCF
+repo_url: https://github.com/iNeuron-Pvt-Ltd/iCF
 
 # Configuration
 theme:
@@ -26,7 +30,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/c17hawke
+      link: https://github.com/iNeuron-Pvt-Ltd
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/c17hawke
     - icon: fontawesome/brands/linkedin
@@ -48,4 +52,4 @@ markdown_extensions:
   - pymdownx.highlight
 
 copyright: |
-  &copy; 2020 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2021 <a href="https://github.com/iNeuron-Pvt-Ltd"  target="_blank" rel="noopener">iNeuron.ai</a>
