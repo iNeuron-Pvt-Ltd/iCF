@@ -25,7 +25,7 @@ Mentoring a student project is an option for existing contributors to the organi
 |October 12, 2021 - November 16, 2021 | Evaluations | Mentors and students submit their evaluations of one another.|
 | January 10, 2022 - January 20, 2022 | Students Submit Code and Final Evaluations | Students submit their code, project summaries, and final evaluations of their mentors.|
 | January 21, 2022 - February 1, 2022 | Mentors Submit Final Evaluations | Mentors review student code samples and determine if the students have successfully completed their Google Summer of Code 2021 project.|
-| February 15, 2022 | Results Announced | Students are notified of the pass/fail status of their Google Summer of Code 2021 projects.|
+| February 15, 2022 | Results Announced | Students are notified of the pass/fail status of their iCF 2021 projects.|
 
  
 

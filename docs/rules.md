@@ -1,11 +1,11 @@
 # iCF Program Rule
 
-iNeuron Code Fusion is a Program sponsored by iNeuron Intelligence where any person willing to work on open source projects.
+iNeuron Code Fusion is a program sponsored by iNeuron Intelligence where any person willing to work on open source projects.
 
 ## Briefing of some keywords:
-1. “**Proposal Acceptance Date**” means the date of Proposal acceptance which is announced on our Program Website.
+1. “**Proposal acceptance date**” means the date of proposal acceptance which is announced on our program website.
 
-2. “**Coding Stretch**” means the time duration of Students to complete their Projects.
+2. “**Coding Stretch**” means the time duration of students to complete their projects.
 
 3. “**Interacting with teammates period**” means Students who accepted to work on open source projects, this period to make bonds between mentors and fellow teammates and begin work on their projects, as per the program timeline.
 
