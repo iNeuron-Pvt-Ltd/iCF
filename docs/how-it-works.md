@@ -1,3 +1,5 @@
+# How-it-works?
+
 ## Students
  
 Students contact iNeuron to work with and develop a summer project proposal. Before beginning coding, students spend a few weeks integrating with their companies if they are approved. After that, students have 12-20 weeks to code while adhering to the deadlines set by their mentors.

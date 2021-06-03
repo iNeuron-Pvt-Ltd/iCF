@@ -3,8 +3,9 @@ site_name: iCF
 # define TOC or order of website-
 nav:
   - Home: index.md
-  - how-it-works?: how-it-works.md
+  - How-it-works?: how-it-works.md
   - General Guidelines: guidelines.md
+  - Proposal template: pro-template.md
   - Rules and Regulations: rules.md 
   - FAQ: faq.md
   - Feedback: feedback.md
