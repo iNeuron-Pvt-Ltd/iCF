@@ -52,5 +52,8 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.highlight
 
+plugins:
+  - search
+
 copyright: |
   &copy; 2021 <a href="https://github.com/iNeuron-Pvt-Ltd"  target="_blank" rel="noopener">iNeuron.ai</a>
