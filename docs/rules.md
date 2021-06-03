@@ -118,18 +118,18 @@ iNeuron Code Fusion is a Program sponsored by iNeuron Intelligence where any per
 ## Program Participant
 
 1. **Evaluations**
-    1. **Multiple Mentors:** If your Project has one or more Mentors. One Mentor should have to submit the evaluation, not both mentors individually.
-    2. **Google Form:** Evaluation should be done via Google form. Students need to answer questions in form.
-    3. **Deadlines:** Students or Mentors should submit their evaluation as per the program timeline.
+    1. **Multiple mentors:** If your project has one or more mentors. One mentor should have to submit the evaluation, not both mentors individually.
+    2. **Google dorm:** Evaluation should be done via Google form. Students need to answer questions in form.
+    3. **Deadlines:** Students or mentors should submit their evaluation as per the program timeline.
     4. **Visibility:** 
-        * The Evaluation marks should be visible to the Mentors and Organization Administrator. Students can only see whether they got the pass or fail in Evaluation.
-        * iNeuron may use Evaluations to make improvements in the iNeuron Fusion Program and for recruiting purposes as well.
-    5. **Grading, or missing Deadlines:**
-        * The Mentor will evaluate the Students work from the starting phase of the Program as per the Program guidelines. Any work evaluation done in the first phase moving to the next phase of the program.
-        * If a Student fails in the first phase of the program, he/she can’t continue for the next phase of the program.
-    6. **Final Project Submission:** Students have to submit the materials or documents related to the Project in our Program website as per our program timeline. If they failed to submit the materials or documents. They would fail in the final evaluation of Project whether they performed well in previous evaluation.
+        * The evaluation marks should be visible to the mentors and organization administrator. Students can only see whether they got the pass or fail in evaluation.
+        * iNeuron may use evaluations to make improvements in the iNeuron Fusion Program and for recruiting purposes as well.
+    5. **Grading, or missing deadlines:**
+        * The mentor will evaluate the students work from the starting phase of the Program as per the program guidelines. Any work evaluation done in the first phase moving to the next phase of the program.
+        * If a student fails in the first phase of the program, he/she can’t continue for the next phase of the program.
+    6. **Final project submission:** Students have to submit the materials or documents related to the project in our program website as per our program timeline. If they failed to submit the materials or documents. They would fail in the final evaluation of project whether they performed well in previous evaluation.
 
-2. **Final Score/Result:** iNeuron will announce the final result on the Program Website.
+2. **Final score/result:** iNeuron will announce the final result on the program website.
 
 
 !!! Info "Disclaimer." 
