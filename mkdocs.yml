@@ -1,10 +1,10 @@
 # Project information
 site_name: iCF
-# defeine TOC or order of website-
+# define TOC or order of website-
 nav:
   - Home: index.md
   - how-it-works?: how-it-works.md
-  - General Guidelines: 
+  - General Guidelines: guidelines.md
   - Rules and Regulations: rules.md 
   - FAQ: faq.md
   - Feedback: feedback.md
@@ -26,6 +26,7 @@ theme:
   palette:
     primary: green
     accent: green
+  logo: assets/mainLogo.jpg
 
 extra:
   social:

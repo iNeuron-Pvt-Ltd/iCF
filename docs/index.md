@@ -1,3 +1,6 @@
+<!-- <p align=center>
+<img src="img/oneLogo.png" width=40%><img>
+</p> -->
 # iNeuron Code Fusion (iCF)
 
 ## About
