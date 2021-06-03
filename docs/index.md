@@ -9,7 +9,7 @@
 
 - Student participants are partnered with a mentor from the leads of successful projects as part of **iNeuron Code Fusion**, gaining exposure to real-world software development and practices. Students can earn a stipend while working on projects that are linked to their interests over the summer between semesters.
 
-- As a result, iNeuron aids in the identification and recruitment of new developers who will implement new features and, perhaps, continue to contribute to open source long after the programme has ended. Most significantly, more code is written and released for everyone's benefit.
+- As a result, iNeuron aids in the identification of new developers who will implement new features and, perhaps, continue to contribute to open source long after the programme has ended. Most significantly, more code is written and released for everyone's benefit.
 
 
 ## What is **iNeuron Code Fusion**?
