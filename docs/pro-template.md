@@ -1,24 +1,27 @@
 # The research proposal template
 
+[Download template :arrow_down:](assets/Proposal_Template.docx){ .md-button .md-button--primary }
+
 This document has been set up to assist students in preparing the text for their research proposal. It is NOT intended as a document to guide you through your research proposal development, but to assist you in setting out the proposal, in terms of text layout, section headings and sub-sections. 
 
-The Research Proposal is a complete description of the intended research, developed under the supervision of the assigned supervisor. Through the full proposal, the student needs to demonstrate convincingly that the study will make a contribution to a public health issue or problem. The full research proposal must be between 5 and 10 pages and should present the following:
+The Research Proposal is a complete description of the intended research, developed under the supervision of the assigned supervisor. Through the full proposal, the student needs to demonstrate convincingly that the study will make a contribution to a public health issue or problem.
 
-- Title 
-- Brief Introduction
-- Background and statement of the problem (this in the light of a thorough literature review)
-- Research question or hypothesis, aim and objectives
-- Study design (type of study)
-- Study population and sampling
-- Data collection methods and instruments
-- Data analysis methods – if applicable statistical planning must be fully addressed, or the candidate should provide evidence that statistics are not required.
-- Mechanisms to assure the quality of the study – e.g. control of bias, safe storage of data
-- Study period - Timetable for completion of the project
-- Participants in the study – all people involved in the study, and the role they play, should be identified.*
-- Ethical considerations
-- Resources required for the study, including budget if applicable
-- References
-- Appendices (copy of questionnaire, consent forms, etc.)
+!!! Notes "The full research proposal must be between 5 and 10 pages and should present the following:"
+    - [X] Title 
+    - [X] Brief Introduction
+    - [X] Background and statement of the problem (this in the light of a thorough literature review)
+    - [X] Research question or hypothesis, aim and objectives
+    - [X] Study design (type of study)
+    - [X] Study population and sampling
+    - [X] Data collection methods and instruments
+    - [X] Data analysis methods – if applicable statistical planning must be fully addressed, or the candidate should provide evidence that statistics are not required.
+    - [X] Mechanisms to assure the quality of the study – e.g. control of bias, safe storage of data
+    - [X] Study period - Timetable for completion of the project
+    - [X] Participants in the study – all people involved in the study, and the role they play, should be identified.
+    - [X] Ethical considerations
+    - [X] Resources required for the study, including budget if applicable
+    - [X] References
+    - [X] Appendices (copy of questionnaire, consent forms, etc.)
 
 ## How to use this template: 
 
