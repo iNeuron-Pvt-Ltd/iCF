@@ -113,7 +113,7 @@ iNeuron Code Fusion is a Program sponsored by iNeuron Intelligence where any per
     4. Students should have to follow rules and guidelines by iNeuron.
 
 !!! Note
-    If iNeuron finds out Students wouldn’t follow the guidelines. He/She should be removed from the Program.
+    If iNeuron finds out students wouldn’t follow the guidelines. He/She should be removed from the Program.
 
 ## Program Participant
 
