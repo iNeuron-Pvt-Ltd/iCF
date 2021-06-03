@@ -21,7 +21,7 @@ repo_url: https://github.com/iNeuron-Pvt-Ltd/iCF
 theme:
   name: material
   features:
-    - tabs
+    - navigation.tabs
   language: en
   palette:
     primary: green
