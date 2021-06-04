@@ -8,7 +8,7 @@ Once your project has been approved, you will be allocated a principal mentor an
 
 ## Community Interaction Period
 
-The community bonding stage is when you finalise your project idea, organise frequent upcoming meetings with your mentor, set up your development environment, and begin to participate in the project. This is the moment to work with your mentor on establishing expectations for your interactions and determining how your success will be measured throughout the ICF programme. Hopefully, you and your mentor have had numerous meetings during the application period, clarifying the project and expectations, but now is the time to solidify your preparations.
+The community bonding stage is when you finalize your project idea, organize frequent upcoming meetings with your mentor, set up your development environment, and begin to participate in the project. This is the moment to work with your mentor on establishing expectations for your interactions and determining how your success will be measured throughout the ICF programme. Hopefully, you and your mentor have had numerous meetings during the application period, clarifying the project and expectations, but now is the time to solidify your preparations.
 
 ## Maintaining Consistency
 
