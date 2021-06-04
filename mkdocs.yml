@@ -4,7 +4,13 @@ site_name: iCF
 nav:
   - Home: index.md
   - How-it-works?: how-it-works.md
-  - General Guidelines: guidelines.md
+  - Guidelines: 
+      - General guidelines: guidelines.md
+      - Should I Submit an Application to the ICF?: Should I Submit an Application to the ICF.md
+      - The Coding Begins: The Coding Begins.md
+      - How to Get a Head Start in ICF?: How to Get a Head Start in ICF.md
+      - Managing Time for Students: Managing Time for Students.md
+      - Criteria for Evaluation: Criteria for Evaluation.md
   - Proposal template: pro-template.md
   - Rules and Regulations: rules.md 
   - FAQ: faq.md
